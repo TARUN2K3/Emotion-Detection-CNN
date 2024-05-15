@@ -55,6 +55,7 @@ pip install tensorflow keras opencv-python matplotlib numpy
 ## Results
 
 The trained model achieves an accuracy of approximately 70% on the test set.
+![image](https://github.com/TARUN2K3/Emotion-Detection-CNN/assets/127468524/0f7102a5-6181-457c-be1b-e2a59067a74f)
 
 
 ## Acknowledgments
