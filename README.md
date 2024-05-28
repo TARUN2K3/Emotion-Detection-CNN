@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements Emotion Detection using Convolutional Neural Networks (CNN). The model is trained to recognize facial expressions such as happiness, sadness, anger, surprise, disgust, and fear.
+This project implements Emotion Detection using Convolutional Neural Networks (CNN). The model is trained to recognize facial expressions such as happiness, sadness, anger, surprise, disgust, and fear. Emotion detection using Convolutional Neural Networks (CNNs) is a popular and effective method in the field of computer vision and machine learning. CNNs are particularly well-suited for this task because they excel at detecting patterns and features in images, which is crucial for recognizing facial expressions and emotions.
 
 ## Dataset
 
