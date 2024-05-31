@@ -60,6 +60,6 @@ The trained model achieves an accuracy of approximately 70% on the test set.
 
 ## Acknowledgments
 
-- The FER2013 dataset is provided by Pierre-Luc Carrier and contains images from the Facial Expression Recognition 2013 Challenge.
+- The dataset is provided by Pierre-Luc Carrier and contains images from the Facial Expression Recognition 2013 Challenge.
 - Inspired by various tutorials and resources on CNN-based emotion detection.
 
