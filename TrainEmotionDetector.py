@@ -48,7 +48,7 @@ cv2.ocl.setUseOpenCL(False)
 
 emotion_model.compile(loss='categorical_crossentropy', optimizer=Adam(learning_rate=0.0001, decay=1e-6), metrics=['accuracy'])
 
-# Train the neural network/model
+# Train the neural network model
 emotion_model_info = emotion_model.fit(
     train_generator,
     steps_per_epoch=28709 // 64,
